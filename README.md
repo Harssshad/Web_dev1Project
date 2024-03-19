@@ -1,2 +1,1 @@
-# Web_dev1Project
-This is the first basic web page I created using html and css.
+This project showcases my initial foray into UI design using HTML and CSS. As a beginner, I've embarked on this journey to understand the fundamentals of web development and to experiment with crafting visually appealing interfaces.
